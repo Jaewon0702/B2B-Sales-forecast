@@ -1,1 +1,2 @@
-# Forecast-of-business-opportunity
+# 🎓 About LG Aimers
+[LG Aimers](https://www.lgaimers.ai/)
