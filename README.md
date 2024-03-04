@@ -1,5 +1,5 @@
 # 🎓 LG Aimers
-[LG Aimers](https://www.lgaimers.ai/) is an education program that works on projects with actual data at [LG AI Research](https://www.lgresearch.ai/).
+[LG Aimers](https://www.lgaimers.ai/) is an education program that works on machine learning projects with actual data at [LG AI Research](https://www.lgresearch.ai/).
 
 # Project
 - Title: Let's develop B2B sales forcast model with MQL Data   
