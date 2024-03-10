@@ -2,7 +2,7 @@
 [LG Aimers](https://www.lgaimers.ai/) is an education program that works on machine learning projects with actual data at [LG AI Research](https://www.lgresearch.ai/).
 
 # Project
-- Title: Let's develop B2B sales forcast model with MQL Data   
+- Title: Let's develop B2B sales forecast model with MQL Data   
 - Period: 2024.01.02 - 02.26   
 - Evaluation: F1 Score
 
